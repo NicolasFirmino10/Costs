@@ -1,6 +1,6 @@
-# Projeto desenvolvido pelo curos Hora de Codar - Matheus Battisti
+# Projeto desenvolvido pelo curso Hora de Codar - Matheus Battisti
 
 
-## Um gerenciador de projetos, com orçamentos e valores de serviços!
+## Um gerenciador de projetos com orçamentos e valores de serviços!
 
 
